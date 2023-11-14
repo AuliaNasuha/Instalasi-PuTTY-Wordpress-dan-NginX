@@ -1,3 +1,9 @@
+# PengunaanPuttyPadaUbuntu
+## Melakukan Download Putty
+Link Download : https://putty.org/
+## Memasukan IP pada PuTTY sesuai dengan yang ada pada ubuntu
+![image](https://github.com/AuliaNasuha/Instalasi-PuTTY-Wordpress-dan-NginX/assets/134512952/1ac4c68b-bce9-4652-8719-d1d733d1a5de)
+Setelah itu Putty Siap Digunakan
 # Instalasi-Wordpress-dan-NginX
 ![image](https://github.com/AuliaNasuha/Instalasi-Wordpress-dan-NginX/assets/134512952/5892b828-348a-4245-bb33-fc867c4276a4)
 
